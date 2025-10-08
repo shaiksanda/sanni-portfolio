@@ -429,6 +429,7 @@ a:hover {
     padding: 6px;
     border-radius: 6px;
     cursor: pointer;
+    line-height: 1.4;
 }
 .card-content:hover{
     background-color: white;
