@@ -433,3 +433,14 @@ a:hover {
 .card-content:hover{
     background-color: white;
 }
+
+img{
+    border-radius: 10px;
+    margin:10px 0px 10px 0px;
+    cursor: pointer;
+    transition: all 1s ease;
+}
+
+img:hover{
+    transform: scale(1.05);
+}
